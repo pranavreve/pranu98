@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋, I'm Pranav Reveendran
 
-<!--
-**pranu98/pranu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- Video Transcript Summarizer using OpenAI's Whisper model and BART-Large model
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Machine Learning Concepts
+
+👯 I’m looking to collaborate on:
+- Open Source Projects related to Data Science and Machine Learning
+
+💬 Ask me about:
+- Data Analytics, Python, and Machine Learning
+
+📫 How to reach me:
+- [Email](mailto:pranav.reveendran@sjsu.edu)
+- [LinkedIn](https://www.linkedin.com/in/pranavraveendran/)
+
+⚡ Fun fact:
+- I enjoy MMA and can be challenged for a fight!
+
+### GitHub Stats
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-reveendran&show_icons=true&theme=radical)
