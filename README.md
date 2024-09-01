@@ -20,7 +20,8 @@
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 
 📈 **GitHub Stats**:
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavreveendran&show_icons=true&theme=dark)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranu98&show_icons=true&theme=dark)
+
 
 💬 **Connect with Me**:
 - [LinkedIn](https://www.linkedin.com/in/pranavraveendran/)
